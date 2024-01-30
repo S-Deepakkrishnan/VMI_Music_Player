@@ -1,4 +1,4 @@
-# musicman
+# VMI
 A simple music player written in Python using PyQt5
 
 Supports mp3, wav and flac files on Windows
